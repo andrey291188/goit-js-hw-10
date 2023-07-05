@@ -1,4 +1,3 @@
-import SlimSelect from 'slim-select';
 import Notiflix from 'notiflix';
 
 const BASE_URL = "https://api.thecatapi.com/v1/" 
